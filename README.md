@@ -70,7 +70,7 @@ The table below compiles leading hosted and enterprise low-code mobile applicati
 
 ## 🔓 Open-Source GitHub Projects
 
-The following open-source frameworks, runtime bridges, and low-code mobile engines are **ranked in descending order by GitHub stargazer count**. Beside each project name is an interactive social star badge linking directly to that repository's stargazers.
+The following open-source frameworks, runtime bridges, and low-code mobile engines are **ranked in descending order by GitHub stargazer count**. Beside each project name is an interactive social Stars_Badge linking directly to that repository's stargazers.
 
 ### 1. 💙 [Flutter](https://github.com/flutter/flutter) [![Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)
 - **Primary Tech Stack**: Dart, C++, Skia / Impeller Rendering Engine
@@ -236,7 +236,7 @@ We welcome additions, corrections, and benchmark improvements from the mobile en
 3. 📝 **Add your entry** to `README.md`:
    - Follow existing formatting, Markdown styles, and accurate metrics.
    - For SaaS additions, provide exact starting tier pricing and specific free tier/trial limits.
-   - For Open-Source additions, include the official repository link, stargazers social badge, and place it in the correct descending star count position.
+   - For Open-Source additions, include the official repository link, stargazers social badge, and place it in the correct descending Stars_Count position.
 4. 🧪 **Verify all links and Markdown formatting**.
 5. 🚀 **Submit a Pull Request** with a concise summary of the addition or update.
 
